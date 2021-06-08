@@ -2,6 +2,7 @@ library rx_transformers;
 
 export 'src/transformers/backpressure/buffer.dart';
 export 'src/transformers/backpressure/debounce.dart';
+export 'src/transformers/backpressure/debounced_buffer.dart';
 export 'src/transformers/backpressure/pairwise.dart';
 export 'src/transformers/backpressure/sample.dart';
 export 'src/transformers/backpressure/throttle.dart';
